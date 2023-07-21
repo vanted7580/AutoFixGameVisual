@@ -3,6 +3,12 @@
 
 ## 说明
 
+此程序用于修复在华硕部分机型更换屏幕后GameVisual无法使用的问题。
+
+- 需要机型自身支持GameVisual，此程序并不会为不支持的机型提供任何支持或者修复功能。
+
+## 帮助改进
+
 此程序的工作原理是通过检测显示器型号，匹配相应的icm文件，并将文件名称修改为主机的型号。
 
 你可以在[这里](https://github.com/vanted7580/AutoFixGameVisual/discussions/new?category=general)提交你的电脑色彩配置文件(打包为Zip)，以帮助其他人。
