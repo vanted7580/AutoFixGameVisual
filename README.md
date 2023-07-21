@@ -7,7 +7,7 @@
 
 - 需要机型自身支持GameVisual，此程序并不会为不支持的机型提供任何支持或者修复功能。
 
-
+<img src="https://upload.cc/i1/2023/07/22/QZkXHo.png" width="400">
 
 ## 帮助改进
 
@@ -22,9 +22,20 @@
 
 文件名称格式是`Model_GPU_Monitor[_CMDEF].icm`，如`GU603ZW_10DE_E5090B74_CMDEF.icm`和`GU603ZW_8086_E5090B74.icm`。
 
-## Screenshot
+## Potential Problems
 
-<img src="https://upload.cc/i1/2023/07/22/QZkXHo.png" width="600">
+#### 潜在面板识别错误
+
+
+      screen = True if profile.find(monitor_code) != -1 else False
+
+以上代码可能会导致配置文件识别错误
+
+- 由于icm文件中显示器信息的格式是`制造商+显示器代号`，而代码仅仅在这段内容中寻找是否存在同样的显示器代号
+- 
+- 这意味着如果制`制造商+显示器代号`中有显示器代号相同制造商不同，或者在字符串链接处产生了一个存在的显示器代号，程序将不能正确识别配置文件
+
+(为什么不修？因为我懒)
 
 ## Configurtion
       [GPU_CODE]
