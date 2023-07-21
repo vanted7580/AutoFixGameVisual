@@ -1,7 +1,18 @@
 # Auto Fix ROG ArmouryCrate GameVisual
 #### 自动修复奥创中心GameVisual
 
-## 开源许可 License
+## Configurtion
+      [GPU_CODE]
+      INTEL_IGPU = 8086 #英特尔核显代号
+      NVIDIA_GPU = 10DE #英伟达独显代号
+      AMD_GPU = #AMD独显代号 未知
+      AMD_IGPU = 1002 #AMD核显代号
+      
+      [SYSTEM_PATH] #目标路径
+      GameVisual = C:\ProgramData\ASUS\GameVisual\
+      Color = C:\Windows\System32\spool\drivers\color\
+
+## License
 
 [AutoFixGameVisual ]([https://github.com/wqy224491/recoil-control-for-apex/blob/main/VANTED.CC_Recoil_Control_for_Apex.lua](https://github.com/vanted7580/AutoFixGameVisual)) is available for [GPL-3.0 License]([https://github.com/wqy224491/MSR-GAMING-ASSISTANT/blob/main/LICENSE](https://github.com/vanted7580/AutoFixGameVisual/blob/main/LICENSE)) in files.
 
