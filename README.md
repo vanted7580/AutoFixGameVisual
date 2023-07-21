@@ -1,6 +1,10 @@
 # Auto Fix ROG ArmouryCrate GameVisual
 #### 自动修复奥创中心GameVisual
 
+## 说明
+
+此程序的工作原理是通过检测显示器型号，匹配相应的icm文件，并将文件名称修改为主机的型号。
+
 ## Configurtion
       [GPU_CODE]
       INTEL_IGPU = 8086 #英特尔核显代号
