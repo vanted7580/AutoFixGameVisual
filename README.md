@@ -5,6 +5,15 @@
 
 此程序的工作原理是通过检测显示器型号，匹配相应的icm文件，并将文件名称修改为主机的型号。
 
+你可以在[这里](https://github.com/vanted7580/AutoFixGameVisual/discussions/new?category=general)提交你的电脑色彩配置文件(打包为Zip)，以帮助其他人。
+
+文件的目录通常在
+
+      C:\ProgramData\ASUS\GameVisual\
+      C:\Windows\System32\spool\drivers\color\
+
+文件名称格式是`Model_GPU_Monitor[_CMDEF].icm`，如`GU603ZW_10DE_E5090B74_CMDEF.icm`和`GU603ZW_8086_E5090B74.icm`。
+
 ## Configurtion
       [GPU_CODE]
       INTEL_IGPU = 8086 #英特尔核显代号
