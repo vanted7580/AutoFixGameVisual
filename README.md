@@ -7,6 +7,8 @@
 
 - 需要机型自身支持GameVisual，此程序并不会为不支持的机型提供任何支持或者修复功能。
 
+
+
 ## 帮助改进
 
 此程序的工作原理是通过检测显示器型号，匹配相应的icm文件，并将文件名称修改为主机的型号。
@@ -34,6 +36,10 @@
       [SYSTEM_PATH] #目标路径
       GameVisual = C:\ProgramData\ASUS\GameVisual\
       Color = C:\Windows\System32\spool\drivers\color\
+
+## Tested Model
+
+- GU603ZW with E5090B74
 
 ## License
 
