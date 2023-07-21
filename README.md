@@ -20,6 +20,10 @@
 
 文件名称格式是`Model_GPU_Monitor[_CMDEF].icm`，如`GU603ZW_10DE_E5090B74_CMDEF.icm`和`GU603ZW_8086_E5090B74.icm`。
 
+## Screenshot
+
+<img src="https://upload.cc/i1/2023/07/22/QZkXHo.png" width="600">
+
 ## Configurtion
       [GPU_CODE]
       INTEL_IGPU = 8086 #英特尔核显代号
