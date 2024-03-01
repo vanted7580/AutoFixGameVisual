@@ -53,6 +53,12 @@
 
 - GU603ZW with E5090B74
 
+## Contributes
+
+
+[<img src="https://avatars.githubusercontent.com/u/81589160" width="20" >](https://github.com/Gannod-Kitkut) [Gannod-Kitkut](https://github.com/Gannod-Kitkut) - [FX507VV](https://github.com/vanted7580/AutoFixGameVisual/discussions/2)
+
+
 ## License
 
 [AutoFixGameVisual ]([https://github.com/wqy224491/recoil-control-for-apex/blob/main/VANTED.CC_Recoil_Control_for_Apex.lua](https://github.com/vanted7580/AutoFixGameVisual)) is available for [GPL-3.0 License](https://github.com/vanted7580/AutoFixGameVisual/blob/main/LICENSE) in files.
