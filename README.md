@@ -58,6 +58,8 @@
 
 [<img src="https://avatars.githubusercontent.com/u/81589160" width="20" >](https://github.com/Gannod-Kitkut) [Gannod-Kitkut](https://github.com/Gannod-Kitkut) - [FX507VV](https://github.com/vanted7580/AutoFixGameVisual/discussions/2)
 
+[<img src="https://avatars.githubusercontent.com/u/120259194" width="20" >](https://github.com/Gannod-Kitkut) [Chen-Mengze](https://github.com/Chen-Mengze) - [FA507RM](https://github.com/vanted7580/AutoFixGameVisual/discussions/5)
+
 
 ## License
 
