@@ -1,4 +1,5 @@
-# Auto Fix ROG ArmouryCrate GameVisual
+# 大家就当这是个ICC共享仓库就行了，我写的程序就图一乐
+## Auto Fix ROG ArmouryCrate GameVisual
 #### 自动修复奥创中心GameVisual
 
 ## 说明
