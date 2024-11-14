@@ -4,6 +4,7 @@
 更多的已压缩的色彩文件在 [compressed](https://github.com/vanted7580/AutoFixGameVisual/tree/main/compressed) 
 
 如果我有什么违反社区规则或者是做得有问题的地方请大家告诉我，我不会使用GitHub（抱歉）。
+感谢大家的支持。
 
 ## 贡献者 (不分先后)
 
