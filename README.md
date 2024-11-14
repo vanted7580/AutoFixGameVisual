@@ -17,7 +17,9 @@
 [<img src="https://avatars.githubusercontent.com/u/46050179" width="30" >](https://github.com/summer-foam)  [Akafusu_Rain](https://github.com/summer-foam)  -  [G733Z/G533Z](https://github.com/vanted7580/AutoFixGameVisual/discussions/8)   [FA506QR](https://github.com/vanted7580/AutoFixGameVisual/discussions/7)
 
 
+## 以防你不知道怎么确定屏幕的型号
 
+<img src="https://raw.githubusercontent.com/vanted7580/assets/refs/heads/main/AutoFixGameVisual/9C4A9C401BD11ABB47A7B54B8B3BD4E0.png" width="600">
 
 ## Auto Fix ROG ArmouryCrate GameVisual
 #### 自动修复奥创中心GameVisual
