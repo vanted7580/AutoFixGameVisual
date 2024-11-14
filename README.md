@@ -1,4 +1,23 @@
 # 大家就当这是个ICC共享仓库就行了，我写的程序就图一乐
+
+已解压的文件在 [color](https://github.com/vanted7580/AutoFixGameVisual/tree/main/color) 文件夹。
+更多的已压缩的色彩文件在 [compressed](https://github.com/vanted7580/AutoFixGameVisual/tree/main/compressed) 
+
+如果我有什么违反社区规则或者是做得有问题的地方请大家告诉我，我不会使用GitHub（抱歉）。
+
+## 贡献者 (不分先后)
+
+[<img src="https://avatars.githubusercontent.com/u/81589160" width="30" >](https://github.com/Gannod-Kitkut)  [Gannod-Kitkut](https://github.com/Gannod-Kitkut)  -  [FX507VV](https://github.com/vanted7580/AutoFixGameVisual/discussions/2)
+
+[<img src="https://avatars.githubusercontent.com/u/123755341" width="30" >](https://github.com/syh599)  [syh](https://github.com/syh599)  -  [GA503RM](https://github.com/vanted7580/AutoFixGameVisual/discussions/4)
+
+[<img src="https://avatars.githubusercontent.com/u/120259194" width="30" >](https://github.com/Chen-Mengze)  [Chen-Mengze](https://github.com/Chen-Mengze)  -  [FA507RM](https://github.com/vanted7580/AutoFixGameVisual/discussions/5)   [G614JVR](https://github.com/vanted7580/AutoFixGameVisual/discussions/6)
+
+[<img src="https://avatars.githubusercontent.com/u/46050179" width="30" >](https://github.com/summer-foam)  [Akafusu_Rain](https://github.com/summer-foam)  -  [G733Z/G533Z](https://github.com/vanted7580/AutoFixGameVisual/discussions/8)   [FA506QR](https://github.com/vanted7580/AutoFixGameVisual/discussions/7)
+
+
+
+
 ## Auto Fix ROG ArmouryCrate GameVisual
 #### 自动修复奥创中心GameVisual
 
@@ -53,14 +72,6 @@
 ## Tested Model
 
 - GU603ZW with E5090B74
-
-## Contributes
-
-
-[<img src="https://avatars.githubusercontent.com/u/81589160" width="20" >](https://github.com/Gannod-Kitkut) [Gannod-Kitkut](https://github.com/Gannod-Kitkut) - [FX507VV](https://github.com/vanted7580/AutoFixGameVisual/discussions/2)
-
-[<img src="https://avatars.githubusercontent.com/u/120259194" width="20" >](https://github.com/Gannod-Kitkut) [Chen-Mengze](https://github.com/Chen-Mengze) - [FA507RM](https://github.com/vanted7580/AutoFixGameVisual/discussions/5)
-
 
 ## License
 
